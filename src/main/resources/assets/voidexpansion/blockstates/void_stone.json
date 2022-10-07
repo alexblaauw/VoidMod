@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "voidexpansion:block/void_stone_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "voidexpansion:block/void_stone"
+    },
+    "axis=z": {
+      "model": "voidexpansion:block/void_stone_horizontal",
+      "x": 90
+    }
+  }
+}
